@@ -9,7 +9,7 @@
 Third-year B.Tech Mechatronics student, engineering the next generation of intelligent systems. My focus is on leveraging **C++ and Python** to build robust robotic perception and control pipelines. I thrive on bridging the gap between hardware and software, from low-level control loops to high-level AI-driven decision-making in autonomous systems.
 
 As the **Coordinator for DC Club Society**, I lead teams in competitive programming and development projects, with a strong emphasis on efficient **Data Structures and Algorithms (DSA)**.
-I am also a part of *GDG(Google Developer Group)* on campus.
+I am also a part of **GDG(Google Developer Group)** on campus.
 
 <br/>
 
