@@ -4,29 +4,36 @@
 <a href="https://github.com/ad7x"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"></a>
 ---
 
-### 🚀 About Me
+### 🎓 Mechatronics Engineer | Robotics & AI Enthusiast
 
-I am a third-year Mechatronics Engineering student, passionate about building intelligent autonomous systems. My core interest lies at the intersection of robotics, control systems, and AI. I am actively developing my skills in C++ and Python, using frameworks like ROS and PyTorch to bring robotic projects to life.
+Third-year B.Tech Mechatronics student, engineering the next generation of intelligent systems. My focus is on leveraging **C++ and Python** to build robust robotic perception and control pipelines. I thrive on bridging the gap between hardware and software, from low-level control loops to high-level AI-driven decision-making in autonomous systems.
 
-As the Coordinator for **DC Club Society**, I lead development projects and enjoy solving complex problems through competitive programming with a strong focus on **Data Structures and Algorithms (DSA)**. I am also an active member of the **Google Developer Group (GDG)** on campus, where I collaborate and learn with fellow tech enthusiasts.
+As the **Coordinator for DC Club Society**, I lead teams in competitive programming and development projects, with a strong emphasis on efficient **Data Structures and Algorithms (DSA)**.
+I am also a part of *GDG(Google Developer Group)* on campus.
 
 <br/>
 
-### 🛠️ My Tech Stack
+## 🛠️ My Technical Arsenal
+
+My toolkit is focused on building and deploying robotics and AI applications from the ground up.
+
 <img align='right' src="https://i.pinimg.com/originals/33/fa/71/33fa7169ec81266cec664f84322dbf2a.gif" alt="studying" width="36%"/>
 
-* **Core Languages:**
+* **Robotics & AI:**
     <br>
-    <img src="https://skillicons.dev/icons?i=cpp,py,c,js" alt="Core Languages">
-* **AI/ML & Robotics:**
+    <img src="https://skillicons.dev/icons?i=cpp,py,ros,pytorch,opencv,tensorflow" alt="Robotics & AI">
+    
+* **Simulation & Control:**
     <br>
-    <img src="https://skillicons.dev/icons?i=pytorch,opencv,r" alt="AI/ML & Robotics">
-* **Web Dev & Databases:**
+    <img src="https://skillicons.dev/icons?i=matlab,simulink" alt="Simulation & Control">
+
+* **Software & Tools:**
     <br>
-    <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,django,mongodb,mysql,postgres" alt="Web Dev & Databases">
-* **Tools, Platforms & Cloud:**
+    <img src="https://skillicons.dev/icons?i=git,github,docker,gcp,linux,latex" alt="Tools & Platforms">
+    
+* **Supporting Backend & Data:**
     <br>
-    <img src="https://skillicons.dev/icons?i=git,github,gcp,latex" alt="Tools, Platforms & Cloud">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" alt="Databases">
 
 <br/>
 
