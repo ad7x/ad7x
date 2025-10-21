@@ -5,6 +5,7 @@
 ---
 
 ### 🎓 Mechatronics Engineer | Robotics & AI Enthusiast
+<img align='right' src="https://i.pinimg.com/originals/33/fa/71/33fa7169ec81266cec664f84322dbf2a.gif" alt="studying" width="36%"/>
 
 Third-year B.Tech Mechatronics student, engineering the next generation of intelligent systems. My focus is on leveraging **C++ and Python** to build robust robotic perception and control pipelines. I thrive on bridging the gap between hardware and software, from low-level control loops to high-level AI-driven decision-making in autonomous systems.
 
@@ -17,7 +18,7 @@ I am also a part of **GDG(Google Developer Group)** on campus.
 
 My toolkit is focused on building and deploying robotics and AI applications from the ground up.
 
-<img align='right' src="https://i.pinimg.com/originals/33/fa/71/33fa7169ec81266cec664f84322dbf2a.gif" alt="studying" width="36%"/>
+
 
 * **Robotics & AI:**
     <br>
